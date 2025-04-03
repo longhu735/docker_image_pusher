@@ -6,3 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 redis:4.0
 --platform=linux/arm64 mongo:8.0
+--platform=linux/arm64 mysql:8.0
+--platform=linux/arm64 mysql:5.7
+--platform=linux/arm64 dataease/dataease:v2.10.6
+
